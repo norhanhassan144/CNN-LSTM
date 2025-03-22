@@ -78,12 +78,6 @@ plt.axis("off")
 plt.show()
 ```
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## ✨ Contributors
-- [Your Name](https://github.com/your-username)
-
 ## 🔗 References
 - Kaggle Dataset: [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 - TensorFlow Documentation: [tensorflow.org](https://www.tensorflow.org/)
